@@ -118,6 +118,32 @@ font-weight: 700;}
 {
     font-weight: 500;
 }
+/* feature-section-related styles*/
+.features
+{
+  gap: 140px;  
+}
+#feature-section-title
+{
+    border-left: 5px solid #FF900E; 
+    padding-left: 20px ;
+
+}
+.feature-card
+{ border-radius: 8px;
+    margin-bottom: 20px;   
+    padding: 30px;
+    box-shadow: 0 4px 3px 0 rgba(0, 0, 0, 0.06);
+}
+ .feature-card .feature-title
+ {
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+
+ }
 /* some facts related styles */
 .facts-container
 {
